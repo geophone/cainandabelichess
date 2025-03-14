@@ -29,8 +29,6 @@ Ok let's look at sms verification services and see if any are free or very cheap
 
 I'm not going to go too much into sms verification sufficieth to say
 
-cai1eiD4oh
-
 If you need phone numbers and you want to do it yourself you need a trunk line.
 
 
