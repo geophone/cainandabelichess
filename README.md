@@ -1,6 +1,6 @@
 # Root out corruption everywhere
 
-[![rofl]([https://i.postimg.cc/fRGQgcjw/powered-by-hans.jpg](https://ibb.co/8nGt7ps3))]
+[![rofl](https://i.ibb.co/Cp4DHZ8d/snah.jpg)](https://ibb.co/8nGt7ps3))]
 
 So lichess.org has chosen to choose security thru obscurity.
 
