@@ -1,7 +1,7 @@
 # Root out corruption everywhere
 
 He didn't cheat!  Don't insult or defame him or he'll sue you!
-[![rofl]([[https://cldup.com/dTxpPi9lDf.thumb.png](https://postimg.cc/3kFqkDc6))](https://en.wikipedia.org/wiki/Hans_Niemann#Cheating_allegations_and_lawsuit)
+[![rofl](https://postimg.cc/3kFqkDc6)](https://en.wikipedia.org/wiki/Hans_Niemann#Cheating_allegations_and_lawsuit)
 
 So lichess.org has chosen to choose security thru obscurity.
 
